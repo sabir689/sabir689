@@ -22,6 +22,9 @@ I am a professional programmer and technology enthusiast. I work on various proj
 ## GitHub Commit Status
 [![GitHub Status](https://img.shields.io/badge/GitHub-Contributor-brightgreen)](link-to-your-github)
 
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide=contribs,prs)
+
 ## Minimum 3 Pinned Projects
 1. [Project 1](link-to-project-1): Brief description of what you did in Project 1.
 2. [Project 2](link-to-project-2): Brief description of what you did in Project 2.
