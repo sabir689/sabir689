@@ -1,7 +1,7 @@
 
 
 <h1 align="left">Hey 👋 What's up?</h1>
-<img align="top" alt="profile" width="300" src="https://i.ibb.co/zZJbwgp/Sahariar-Hasan-1.jpg">
+<img align="top" alt="profile" width="full" src="https://i.ibb.co/zZJbwgp/Sahariar-Hasan-1.jpg">
 
 ###
 
