@@ -13,7 +13,8 @@
 
 <p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning NextJs,c#<br>🎯 Goals: To become a full stack web developer<br></p>
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/shuvox33)
+
+[![Facebook]([https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/shuvox33](https://www.facebook.com/sahariar.sabir.3/))
 
 ###
 
