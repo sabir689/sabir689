@@ -1,8 +1,8 @@
-<h2 align="left">Hi 👋! My name is [Sahariar Hasan] .</h2>
+<h2 align="left">Hi 👋! My name is Sahariar Hasan </h2>
 
 
 
-![Your Cover Image](link/to/your/cover/image.jpg)
+(https://myaccount.google.com/?utm_source=chrome-profile-chooser&pli=1)
 
 ### About Me
 
