@@ -1,9 +1,10 @@
 
 
-<h1 align="left">Hey 👋 What's up?</h1>
+
 <img align="top" alt="profile" width="full" src="https://i.ibb.co/R47Z0tx/Navy-And-White-Geometric-Technology-Linked-In-Banner.jpg">
 
 ###
+<h1 align="left">Hey 👋 What's up?</h1>
 
 <p align="left">My name is Sahariar Hasan and I'm a Frontend Developer, from Bangladesh</p>
 
