@@ -58,7 +58,7 @@
 <h3 align="left">My Projects:</h3>
 
 <!-- Project 1 -->
-<img align="top" alt="projects" width="full" src="https://i.ibb.co/k5jZzsg/cloth.jpg">
+
 <h4 align="left">Clothing Brand</h4>
 <p align="left">
   Description: 
