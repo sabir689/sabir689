@@ -15,7 +15,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning NextJs,c#<br>🎯 Goals: To become a full stack web developer<br> Currently I'm doing my Bachelor of Science in CSE.</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning NextJs,c#<br>🎯 Goals: To become a full stack web developer<br> Currently I'm doing my Bachelor of Science in CSE.</p>
 - 📫 How to reach me **sahariarpub@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
