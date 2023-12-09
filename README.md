@@ -1,6 +1,6 @@
-<h2 align="left">Hi 👋! My name is [Your Name] and I'm a [Your Profession] from [Your Location].</h2>
+<h2 align="left">Hi 👋! My name is [Sahariar Hasan] .</h2>
 
-### Cover Image
+
 
 ![Your Cover Image](link/to/your/cover/image.jpg)
 
