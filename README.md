@@ -52,3 +52,69 @@
   <img src="https://streak-stats.demolab.com?user=sabir689&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 
 </div>
+###
+
+
+<h3 align="left">My Projects:</h3>
+
+<!-- Project 1 -->
+<h4 align="left">Clothing Brand</h4>
+<p align="left">
+  Description: 
+  ➊My website is based on fashion design 
+  ➋there is 6 brands in website 
+  ➌Each brand have 4 products but the levis brand is blank cause there is no product in 
+   there 
+  ➍You can add product based on your choice in the add product section 
+  ➎And user can sign in and sign out also..
+</p>
+<p align="left">
+  Technologies Used:Html,tailwind,daisyUi,JS,React,MongoDB
+</p>
+<p align="left">
+  Demo:https://cloth-brands.web.app/ 
+</p>
+<p align="left">
+  Repository:https://github.com/sabir689/clothinng-brand-client 
+</p>
+
+<!-- Project 2 -->
+<h4 align="left">Repair Shop</h4>
+<p align="left">
+  Description:➊My website is based on repair services 
+  ➋there is 12 services in website 
+  ➌u can add service in here as ur wish 
+  ➍there is a manage services pages in here 
+  ➎u can update or delete services in there  
+</p>
+<p align="left">
+  Technologies Used:Html,tailwind,daisyUi,JS,React,MongoDB
+</p>
+<p align="left">
+  Demo: https://community-repair-workshops.web.app/
+</p>
+<p align="left">
+  Repository:https://github.com/sabir689/repair-shop-client?tab=readme-ov-file
+</p>
+
+<!-- Project 3 -->
+<h4 align="left">Tour Guide</h4>
+<p align="left">
+  Description:
+  1.This a tourGuide website 
+  2.u Can see the tour guides and their details 
+  3.Admin,tourguide and tourist part are separate based on their login 
+  4.u can see the places u want to visit and then choose the guide with that 
+  5.U can became tour guide also 
+</p>
+<p align="left">
+  Technologies Used: Html,tailwind,daisyUi,JS,React,MongoDB
+</p>
+<p align="left">
+  Demo: https://tourist-guide-4e088.web.app/
+</p>
+<p align="left">
+  Repository:https://github.com/sabir689/tour-guide-client/blob/main/README.md 
+</p>
+
+
