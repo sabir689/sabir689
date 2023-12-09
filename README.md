@@ -5,7 +5,7 @@
 <p align="left">My name is Sahariar Hasan and I'm a Frontend Developer, from Bangladesh</p>
 
 ###
-<img align="right" alt="profile" width="300" src="https://i.ibb.co/0qHsySW/405614349-289667834044521-8398789847772274964-n.jpg">
+<img align="right" alt="profile" width="300" src="https://i.ibb.co/0qHsySW/405614349-289667834044521-8398789847772274964-n.jpg" style="border-radius: 50%;">
 
 
 <h2 align="left">About me</h2>
