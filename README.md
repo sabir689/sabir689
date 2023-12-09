@@ -1,4 +1,4 @@
-<img align="top" alt="profile" width="400" src="https://i.ibb.co/yNWMC39/Sahariar-Hasan-1.png">
+<img align="right" alt="profile" width="400" src="https://i.ibb.co/yNWMC39/Sahariar-Hasan-1.png">
 
 <h1 align="left">Hey 👋 What's up?</h1>
 
