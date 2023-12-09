@@ -1,6 +1,4 @@
-<!-- Replace the following placeholders with your actual details -->
-
-# Hi 👋! My name is [Your Name] and I'm a [Your Profession] from [Your Location].
+<h2 align="left">Hi 👋! My name is [Your Name] and I'm a [Your Profession] from [Your Location].</h2>
 
 ### Cover Image
 
@@ -37,9 +35,9 @@ I am a [Your Profession] with a passion for [Brief Description of Your Vision]. 
 - Twitter: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
 - GitHub: [YourGitHubUsername](https://github.com/YourGitHubUsername)
 
-### Snake Animation
+### GitHub Trophies
 
-<img src="https://raw.githubusercontent.com/yourusername/yourrepository/output/snake.svg" alt="Snake animation" />
+[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Work Showcase
 
