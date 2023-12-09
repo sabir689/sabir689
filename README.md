@@ -1,6 +1,6 @@
 # My Profile
 
-![Profile Image](link-to-profile-image.jpg)
+![Profile Image](https://i.ibb.co/0qHsySW/405614349-289667834044521-8398789847772274964-n.jpg)
 
 ## Official Name
 Name used in official documents: John Doe (This may not be an actual name for clarity purposes)
