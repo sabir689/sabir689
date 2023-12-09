@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sahariar Hasan Sabir</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://i.ibb.co/0qHsySW/405614349-289667834044521-8398789847772274964-n.jpg" alt="sabir689" /> </p>
+<img align="right" alt="profile" width="300" src="https://i.ibb.co/G33JNhP/348883853-945510670066017-2536242870447683442-n.jpg">
 
 - 📫 How to reach me **sahariarpub@gmail.com**
 
