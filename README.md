@@ -37,7 +37,7 @@ I am a [Your Profession] with a passion for [Brief Description of Your Vision]. 
 
 ### GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sabir689)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Work Showcase
 
