@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning NextJs,c#<br>🎯 Goals: To become a full stack web developer<br>🎲 Fun fact: I dont give up</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning NextJs,c#<br>🎯 Goals: To become a full stack web developer<br></p>
 
 ###
 
