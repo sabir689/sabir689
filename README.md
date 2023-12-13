@@ -92,7 +92,7 @@
   Technologies Used:Html,tailwind,daisyUi,JS,React,MongoDB
 </p>
 <p align="left">
-  Demo: https://community-repair-workshops.web.app/
+  Demo: [https://community-repair-workshops.web.app/](https://657976e57b0f227948b29c4c--fancy-halva-94a117.netlify.app/)
 </p>
 <p align="left">
   Repository:https://github.com/sabir689/repair-shop-client?tab=readme-ov-file
