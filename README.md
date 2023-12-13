@@ -115,7 +115,7 @@
   Demo: https://tourist-guide-4e088.web.app/
 </p>
 <p align="left">
-  Repository:https://github.com/sabir689/tour-guide-client/blob/main/README.md 
+  Repository:https://github.com/sabir689/tour-guide-client
 </p>
 
 
